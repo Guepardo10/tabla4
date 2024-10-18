@@ -1,0 +1,12 @@
+body{
+    background-image: url(imagenes/ciudad.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+}
+.col h1{
+    font-size: 400%;
+    color: rgb(47, 18, 212);
+    text-align: center;
+}
